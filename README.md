@@ -1,5 +1,6 @@
 
 🌐 Deploying and Optimizing Guestbook App with Redis Memory Data Structure and Redundancy in OpenShift Internal Registry on Kubernetes 
+
 🐳 1- Initial Deployment: Built and deployed a simple Guestbook application, an essential first step to get accustomed to deploying in a cloud environment.
  
 - Deployment and Application Update:
